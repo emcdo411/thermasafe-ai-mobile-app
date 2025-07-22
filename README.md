@@ -1,8 +1,3 @@
-Absolutely! Here's your full `README.md` written out for the `thermasafe-ai-mobile-app` GitHub repository, tailored with clickable sections, shields.io badges, colorful banners, and beginner-friendly structure:
-
----
-
-````markdown
 # 📱 ThermaSafeAI Mobile Companion App
 
 ![React Native](https://img.shields.io/badge/React%20Native-0.73.4-blue?logo=react)
