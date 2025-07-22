@@ -147,8 +147,3 @@ Veteran | MSSA Cohort | Associate Solutions Architect
 
 ```
 
----
-
-Let me know if you’d like this turned into a downloadable `.md` file, or automatically added into your GitHub repo.
-```
-
